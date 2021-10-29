@@ -13,4 +13,5 @@ Find all the details about the dish.
 
 # API used: 
 https://www.themealdb.com/api.php
-# Tech Stack: HTML, CSS, JavaScript 
+# Tech Stack: 
+HTML, CSS, JavaScript 
