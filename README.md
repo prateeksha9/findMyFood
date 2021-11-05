@@ -19,9 +19,10 @@ Find all the details about the dish.
 
 ![image](https://user-images.githubusercontent.com/66215313/139402559-47dc7e79-6e07-41b4-ba55-4fe3c0e575cb.png)
 
+# Tech Stack: 
+HTML, CSS, JavaScript 
 
 # Important links: 
 API Used: https://www.themealdb.com/api.php
-YouTube explaination:  
-# Tech Stack: 
-HTML, CSS, JavaScript 
+YouTube explaination video: https://youtu.be/D_nhxDWhPbU
+
