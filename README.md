@@ -1,4 +1,4 @@
-# findMyFood
+# findMyFood JQuery
 
 Find all your favourite dishes, add them to the favourite list and get all the details about it.
 
